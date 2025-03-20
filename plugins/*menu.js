@@ -273,7 +273,7 @@ await conn.sendMessage(from,{video:{url: config.MENU_IMG},caption:madeMenu,
     forwardingScore: 999,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '12037454868@newsletter',
+      newsletterJid: '120363401928208566@newsletter',
       newsletterName: '𝗫𝗫𝗫-𝗠𝗗 📌 ➝',
       serverMessageId: 999
     }
